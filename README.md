@@ -4,4 +4,4 @@
 - [Sara Nuñez](https://github.com/sarannz0)
 
 ## Autores de paz 
-- [Camper](https://github.com/sarannz0)
+- [Adrian Ruiz](https://github.com/addsdev-campuslands)
